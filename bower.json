@@ -1,0 +1,26 @@
+{
+  "name": "svg-icons-spin",
+  "version": "1.0.0",
+  "homepage": "https://redcastor.io",
+  "authors": [
+    "Auban le Grelle"
+  ],
+  "description": "",
+  "keywords": [
+    "loading",
+    "spin",
+    "spinner",
+    "loader",
+    "svg",
+    "webicon"
+  ],
+  "main": [
+    "dist/icons-spin.min.svg"
+  ],
+  "ignore": [
+    "**/.*",
+    "**/*.txt",
+    "node_modules",
+    "bower_components"
+  ]
+}
