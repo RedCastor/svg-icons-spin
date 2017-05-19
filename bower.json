@@ -1,6 +1,6 @@
 {
   "name": "svg-icons-spin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://redcastor.io",
   "authors": [
     "Auban le Grelle"
@@ -15,7 +15,7 @@
     "webicon"
   ],
   "main": [
-    "dist/icons-spin.min.svg"
+    "dist/icons-spin.svg"
   ],
   "ignore": [
     "**/.*",
