@@ -2,6 +2,8 @@
 
 Group of svg spinner in one file. Possible to use with WebIcon https://github.com/icons8/webicon
 
+**[Demo][]**
+
 Basic usage
 ---------------
 Install bower package:
@@ -40,4 +42,11 @@ angular.module('app', ['webicon'])
 ```
 
 
+[Demo]: http://redcastor.github.io/svg-icons-spin/demo/
 
+
+Many Thanks for source form
+-----------------------
+
+- Aurer http://codepen.io/aurer/pen/jEGbA
+- Ionic http://codepen.io/ionic/pen/GgwVON
