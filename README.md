@@ -22,6 +22,13 @@ List of icon ID
 * line-3
 * line-4
 * line-5
+* android
+* calme
+* ios
+* spiral
+* balanced
+* energized
+* clock
 
 
 Example
